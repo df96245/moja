@@ -1,4 +1,4 @@
-package com.song.moja.db;
+package com.song.moja.persistence.hdfs;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayInputStream;
@@ -10,8 +10,6 @@ import java.io.InputStream;
 import java.net.URI;
 import java.util.List;
 
-import org.apache.commons.logging.Log;
-import org.apache.commons.logging.LogFactory;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FSDataInputStream;
 import org.apache.hadoop.fs.FSDataOutputStream;

@@ -1,4 +1,4 @@
-package com.song.moja.db;
+package com.song.moja.persistence;
 
 import java.util.List;
 

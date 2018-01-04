@@ -1,4 +1,4 @@
-package com.song.moja.db;
+package com.song.moja.persistence.mongo;
 
 import java.util.Properties;
 

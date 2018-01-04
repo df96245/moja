@@ -1,8 +1,9 @@
-package com.song.moja.db;
+package com.song.moja.persistence;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import com.song.moja.persistence.mongo.MongoSaveUtil;
 import org.apache.log4j.Logger;
 
 import com.google.protobuf.MessageLite;

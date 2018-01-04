@@ -1,7 +1,5 @@
-package com.song.moja.db;
+package com.song.moja.persistence.hdfs;
 
-import java.io.File;
-import java.io.IOException;
 import java.util.List;
 
 
